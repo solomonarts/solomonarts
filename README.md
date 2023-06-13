@@ -45,7 +45,7 @@ I am a fullstack software engineer from Uganda - 🔭 Mostly frontend and backen
   
   <div>
   MY Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=solomonarts&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=solomonarts&theme=dark&exclude_days=Sat)](https://git.io/streak-stats)
   </div>
 
 
