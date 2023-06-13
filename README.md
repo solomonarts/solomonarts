@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a fullstack software engineer from Uganda - 🔭 Mostly frontend and backend project using React and Nodejs
+I am a fullstack software engineer from Uganda - 🔭 Mostly frontend and backend using React and Nodejs
 
 ## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
