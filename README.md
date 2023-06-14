@@ -51,9 +51,7 @@ I am a fullstack software engineer from Uganda - 🔭 Mostly frontend and backen
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   </div>
   <br />
-  <br />
-  <br />
-  <br />
+  
   <div>
   <a href="https://git.io/streak-stats">
     <img align="left" alt="streak" src="http://github-readme-streak-stats.herokuapp.com?user=solomonarts&theme=dark&exclude_days=Sat" />
