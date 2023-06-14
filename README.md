@@ -59,6 +59,16 @@ I am a fullstack software engineer from Uganda - 🔭 Mostly frontend and backen
     <img align="left" alt="streak" src="http://github-readme-streak-stats.herokuapp.com?user=solomonarts&theme=dark&exclude_days=Sat" />
   </a>
   </div>
+  
+  <div>
+  
+<!-- [![Top Langs]()]() -->
+   <br />
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solomonarts&layout=compact&theme=dark" />
+  </a>
+  </div>
 
 
 
